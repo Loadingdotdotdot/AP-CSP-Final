@@ -2,8 +2,46 @@
 	font-weight: bold;
 	text-align: center;
 	margin: 5px;
+	color: white;
 }
+
 
 html {
 	background-color: #29A462;
+}
+
+.info {
+	color: white;
+	text-align: center;
+}
+
+.nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px;
+	background-color: #0b824a;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	text-align: center;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	color: white;
+}
+
+li a {
+	background-color: #0b824a;
+	text-decoration: none;
+	padding: 14px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	font-size: 20px;
+}
+
+li a:hover {
+  background-color: #01683f;
 }
