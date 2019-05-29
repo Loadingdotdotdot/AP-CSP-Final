@@ -8,6 +8,8 @@
 
 html {
 	background-color: #29A462;
+	color: white;
+	text-align: center;
 }
 
 .info {
@@ -44,4 +46,13 @@ li a {
 
 li a:hover {
   background-color: #01683f;
+}
+
+form {
+	color: white;
+	text-align: center;
+}
+
+input {
+	padding: 8px;
 }
